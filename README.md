@@ -10,6 +10,7 @@
 | [0342-power-of-four](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0342-power-of-four) |
 | [2413-smallest-even-multiple](https://github.com/suvarnamiriyala/DSA-learning/tree/master/2413-smallest-even-multiple) |
 | [2544-alternating-digit-sum](https://github.com/suvarnamiriyala/DSA-learning/tree/master/2544-alternating-digit-sum) |
+| [2652-sum-multiples](https://github.com/suvarnamiriyala/DSA-learning/tree/master/2652-sum-multiples) |
 ## Dynamic Programming
 |  |
 | ------- |
