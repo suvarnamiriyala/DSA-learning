@@ -37,15 +37,21 @@
 ## Hash Table
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0771-jewels-and-stones) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0344-reverse-string) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
