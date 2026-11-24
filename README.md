@@ -34,4 +34,12 @@
 | ------- |
 | [0231-power-of-two](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0771-jewels-and-stones) |
+## String
+|  |
+| ------- |
+| [0771-jewels-and-stones](https://github.com/suvarnamiriyala/DSA-learning/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
